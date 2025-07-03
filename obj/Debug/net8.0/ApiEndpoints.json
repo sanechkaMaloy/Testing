@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Testing.Controllers.AssetsController",
+    "Method": "GetAssets",
+    "RelativePath": "api/assets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Testing.Controllers.AssetsController",
+    "Method": "GetHistory",
+    "RelativePath": "api/assets/{symbol}/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbol",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Testing.Controllers.AssetsController",
+    "Method": "SaveHistory",
+    "RelativePath": "api/assets/{symbol}/history/save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "symbol",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

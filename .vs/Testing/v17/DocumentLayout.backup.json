@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davai\\source\\repos\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|c:\\users\\davai\\source\\repos\\testing\\services\\fintawebsocketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|solutionrelative:services\\fintawebsocketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|c:\\users\\davai\\source\\repos\\testing\\services\\fintachartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|solutionrelative:services\\fintachartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|c:\\users\\davai\\source\\repos\\testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|c:\\users\\davai\\source\\repos\\testing\\services\\ifintachartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|solutionrelative:services\\ifintachartsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|c:\\users\\davai\\source\\repos\\testing\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|solutionrelative:controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|c:\\users\\davai\\source\\repos\\testing\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|c:\\users\\davai\\source\\repos\\testing\\models\\assets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA9C0FC-42E1-4311-9588-D8ED2096245C}|Testing.csproj|solutionrelative:models\\assets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FintachartsService.cs",
+              "DocumentMoniker": "C:\\Users\\davai\\source\\repos\\Testing\\Services\\FintachartsService.cs",
+              "RelativeDocumentMoniker": "Services\\FintachartsService.cs",
+              "ToolTip": "C:\\Users\\davai\\source\\repos\\Testing\\Services\\FintachartsService.cs",
+              "RelativeToolTip": "Services\\FintachartsService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:59:08.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\davai\\source\\repos\\Testing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\davai\\source\\repos\\Testing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:50:40.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FintaWebSocketService.cs",
+              "DocumentMoniker": "C:\\Users\\davai\\source\\repos\\Testing\\Services\\FintaWebSocketService.cs",
+              "RelativeDocumentMoniker": "Services\\FintaWebSocketService.cs",
+              "ToolTip": "C:\\Users\\davai\\source\\repos\\Testing\\Services\\FintaWebSocketService.cs",
+              "RelativeToolTip": "Services\\FintaWebSocketService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:38:41.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assets.cs",
+              "DocumentMoniker": "C:\\Users\\davai\\source\\repos\\Testing\\Models\\Assets.cs",
+              "RelativeDocumentMoniker": "Models\\Assets.cs",
+              "ToolTip": "C:\\Users\\davai\\source\\repos\\Testing\\Models\\Assets.cs",
+              "RelativeToolTip": "Models\\Assets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:44:10.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFintaChartsService.cs",
+              "DocumentMoniker": "C:\\Users\\davai\\source\\repos\\Testing\\Services\\IFintaChartsService.cs",
+              "RelativeDocumentMoniker": "Services\\IFintaChartsService.cs",
+              "ToolTip": "C:\\Users\\davai\\source\\repos\\Testing\\Services\\IFintaChartsService.cs",
+              "RelativeToolTip": "Services\\IFintaChartsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:43:06.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "C:\\Users\\davai\\source\\repos\\Testing\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssetsController.cs",
+              "ToolTip": "C:\\Users\\davai\\source\\repos\\Testing\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "Controllers\\AssetsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:30:06.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\davai\\source\\repos\\Testing\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\davai\\source\\repos\\Testing\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:27:48.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
